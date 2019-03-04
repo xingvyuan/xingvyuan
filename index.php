@@ -1,5 +1,5 @@
 <?php
-$a = 'a';
+$a = 'a';  
+aaaaaa
 echo 'hello page';
-
-a
+ 
